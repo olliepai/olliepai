@@ -15,20 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Ollie Pai.
+## Hi, I'm Ollie Pai.
 
----
+I'm a first year computer science major at UCLA, exploring interfaces to enhance cognitive processes such as creativity and mental health. Interested in human-computer interaction, productivity tools, and personal knowledge management systems.
 
-I'm a first year computer science major at UCLA, exploring interfaces to enhance cognitive processes such as creativity and mental health. Interested in human-computer interaction, productivty tools, and personal knowledge management systems.
-
-#### Currently
+### Currently
 
 - Part of the team building [onTrack](https://ontrack-darwin.herokuapp.com/), a course planning assistant for UCLA students.
 - Compiling my own [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) using [Obsidian](https://obsidian.md/).
 - Reading [Andy Matuschak's](https://andymatuschak.org/) blog on tools for thought.
 - Relaxing to Ben Taylor's videos about the relationship between basketball tactics and cognition on [Thinking Basketball](https://www.youtube.com/channel/UC3HPbvB6f58X_7SMIp6OPYw).
 
-#### Skillset
+### Skillset
 
 Java, JavaScript, C/C++<br>
 HTML/CSS, JavaScript, React, Redux, Node.js, Material UI, Electron<br>
