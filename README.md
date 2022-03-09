@@ -33,6 +33,6 @@ HTML/CSS, JavaScript, React, Redux, Node.js, Material UI, Electron<br>
 MySQL, PHP<br>
 CLI, Git, GitHub<br>
 Adobe CC (Premiere Pro, Lightroom)<br>
-SOLIDWORKS CAD (Certified Associate, 2021)<br>
+SOLIDWORKS CAD (Certified Associate, 2021)<br><br>
 
 🌘
