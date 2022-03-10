@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Ollie Pai.
+## Hi, I'm Ollie Pai 🧑🏻‍💻
 
 I'm a first year computer science major at UCLA, exploring interfaces to enhance cognitive processes such as creativity and mental health. Interested in human-computer interaction, productivity tools, and personal knowledge management systems.
 
@@ -33,6 +33,6 @@ HTML/CSS, JavaScript, React, Redux, Node.js, Material UI, Electron<br>
 MySQL, PHP<br>
 CLI, Git, GitHub<br>
 Adobe CC (Premiere Pro, Lightroom)<br>
-SOLIDWORKS CAD (Certified Associate, 2021)<br><br>
+SOLIDWORKS CAD (Certified Associate, 2021)
 
-🌘
+`Last updated March 2022`
