@@ -35,4 +35,4 @@ CLI, Git, GitHub<br>
 Adobe CC (Premiere Pro, Lightroom)<br>
 SOLIDWORKS CAD (Certified Associate, 2021)
 
-`Last updated March 2022`
+`Last updated Mar 9 2022`
