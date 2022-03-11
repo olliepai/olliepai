@@ -21,7 +21,7 @@ I'm a first year computer science major at UCLA, interested in human-computer in
 
 ### Currently
 
-- Part of the team building [onTrack](https://ontrack-darwin.herokuapp.com/), a course planning assistant for UCLA students.
+- Part of the team building [onTrack](http://www.ontrackucla.com/), a course planning assistant for UCLA students.
 - Compiling my own [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) using [Obsidian](https://obsidian.md/).
 - Reading [Andy Matuschak's](https://andymatuschak.org/) blog on tools for thought.
 - Relaxing to Ben Taylor's videos about the relationship between basketball tactics and cognition on [Thinking Basketball](https://www.youtube.com/channel/UC3HPbvB6f58X_7SMIp6OPYw).
