@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Ollie Pai 🧑🏻‍💻
 
-I'm a first year computer science major at UCLA, exploring interfaces to enhance cognitive processes such as creativity and mental health. Interested in human-computer interaction, productivity tools, and personal knowledge management systems.
+I'm a first year computer science major at UCLA, interested in human-computer interaction, productivity tools, and personal knowledge management systems.
 
 ### Currently
 
