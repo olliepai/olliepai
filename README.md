@@ -1,1 +1,1 @@
-researching systems to augment learning and mental health 💭
+researching systems to augment learning and mental health
